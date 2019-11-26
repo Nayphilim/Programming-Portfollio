@@ -1,0 +1,4 @@
+Creatures
+
+2cardName:Cabal TherapisttypeLine:Creature — HorrormanaCost:{B}
+end

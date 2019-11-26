@@ -1,0 +1,6 @@
+﻿  Database.cpp
+  Deck Builder.cpp
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.cpp(14): warning C4930: 'Database loadDatabase(void)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+LINK : fatal error LNK1104: cannot open file 'sqlite3.lib'

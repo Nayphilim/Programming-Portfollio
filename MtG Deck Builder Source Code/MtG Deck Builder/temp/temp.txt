@@ -1,0 +1,7 @@
+Creatures
+
+1 Island Fish Jasconius Creature — Fish {4}{U}{U}{U}
+
+Lands
+
+1 Island Basic Land — Island

@@ -1,0 +1,13 @@
+﻿  Deck Builder.cpp
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(506): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(529): warning C4101: 'cmc': unreferenced local variable
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(740): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(761): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(767): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(771): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(775): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(833): warning C4101: 'pos': unreferenced local variable
+d:\nayphilim\documents\magic deck builder project\mtg deck builder\mtg deck builder\deck builder.h(937): warning C4101: 'pos': unreferenced local variable
+  Deck Builder.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MtG Deck Builder.vcxproj -> D:\Nayphilim\Documents\Magic Deck Builder Project\MtG Deck Builder\x64\Debug\MtG Deck Builder.exe
