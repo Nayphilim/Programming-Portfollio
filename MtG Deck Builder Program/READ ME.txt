@@ -1,0 +1,9 @@
+Hi,
+
+This is my MTG deck building program. 
+
+A few notes, this program is designed currently to connect to a locally hosted SQL Server. 
+This means that you will need to use what is provided inside the resource folder to set up your own server in order to get the program to function as is.
+The SQL server I have created is also incomplete and is missing many cards, used only for test purposes.
+
+It may be easier to rip the code yourself and create your own database to host for it, feel free to do so.
